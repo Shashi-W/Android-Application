@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuPage">
+
+
+    <TextView
+        android:id="@+id/forest_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/aref_ruqaa"
+        android:gravity="center"
+        android:text="Welcome to Sri Lanka"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnBeach"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:text="@string/beach_button"
+        android:background="@drawable/custom_button"
+        android:textColor="#FF03DAC5"
+
+        />
+
+    <Button
+        android:id="@+id/btnHistorical"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnBeach"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="@string/historical_button"
+        android:background="@drawable/custom_button"
+        android:textColor="#FF03DAC5"/>
+
+    <Button
+        android:id="@+id/btnForest"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnHistorical"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="@string/forest_button"
+        android:background="@drawable/custom_button"
+        android:textColor="#FF03DAC5"/>
+
+    <Button
+        android:id="@+id/btnCulture"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnForest"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="@string/culture_button"
+        android:background="@drawable/custom_button"
+        android:textColor="#FF03DAC5"/>
+</RelativeLayout>

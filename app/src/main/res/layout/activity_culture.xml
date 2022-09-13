@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Culture">
+
+
+    <ScrollView
+        android:id="@+id/scrollID"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/culture_head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif-monospace"
+                android:gravity="center"
+                android:text="@string/culture_head"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/underline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/culture_head"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="sans-serif"
+                android:text="@string/underline"
+                android:textColor="#009688"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/c"
+                android:layout_below="@+id/underline"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="1dp"/>
+
+            <TextView
+                android:id="@+id/aryu_head"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView6"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="cursive"
+                android:text="@string/aryu_head"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/aryu1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/aryu_head"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/akaya_telivigala"
+                android:text="@string/aryu_details"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/art_head"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/aryu1"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="cursive"
+                android:text="@string/art_head"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:layout_marginTop="30dp"/>
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="wrap_content"
+                app:srcCompat="@drawable/cc"
+                android:layout_height="280dp"
+                android:layout_below="@id/art_head"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                />
+
+            <TextView
+                android:id="@+id/art1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageView7"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:fontFamily="@font/akaya_telivigala"
+                android:text="@string/art_details"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:layout_marginTop="20dp"/>
+
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

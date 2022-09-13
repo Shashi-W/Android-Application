@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">IT2019111_Assignment</string>
+    <string name="get_start"><![CDATA[Get Start >]]></string>
+    <string name="home_text">Sri Lanka</string>
+    <string name="beach_button">BEACH</string>
+    <string name="historical_button">HISTORICAL</string>
+    <string name="forest_button">FOREST</string>
+    <string name="culture_button">CULTURE</string>
+    <string name="beach_page_header">Beaches in Sri Lanka</string>
+    <string name="underline">____________________</string>
+    <string name="nilaveli_name">Nilaveli</string>
+    <string name="nilaveli_Details">Nilaveli Beach is a broad, sandy beach, lined with palm trees and dotted with fishermens boats. Located on the northeast part of Sri Lanka,it is a 30-minute drive from the city of Trincomalee. This tiny island has calm beaches with gentle surf due to its own small reef. Although the beach at Nilaveli is large, it is popular with both locals and tourists.There are lifeguards on duty and many little restaurants along the beach, most specializing in seafood.</string>
+    <string name="nilaveli_Details1">The Trincomalee area is also good for sightseeing, as it is a center of Tamil culture. Tamil is the name of the language spoken in Sri Lanka and the ethnic group to which the majority of its residents belong \n\n\n</string>
+    <string name="kalkudah_name">Kalkudah</string>
+    <string name="kalkudah_details">This mile-long beach on Pasikuda Bay is perfect for swimming and wading. The surf is gentle, protected by a reef, unlike many beaches in Sri Lanka with rough surf. The water is also shallow, allowing you to walk out into the ocean for hundreds of yards. The sand is bright white and soft, with fine grains, and the beach is lined with coconut trees. This area is just starting to be discovered for luxury resort development, so there is plenty of untouched beach to explore.</string>
+    <string name="historicaal_head">Historical Places In Sri Lanka</string>
+    <string name="temple_of_the_tooth_head">Temple of the Tooth</string>
+    <string name="temple_of_the_tooth_details">The Temple of the Tooth (Dalada Maligawa) is a colourful temple which is said to hold the tooth of Buddha – one of the most important Buddhist relics.</string>
+    <string name="temple_of_the_tooth_details2">The subject of fierce fighting, it is said that the tooth – one of the Buddha’s teeth and therefore one of the most important Buddhist relics – was first brought to Sri Lanka in the 4th century AD and has been part of the politics of the local region ever since. Legend has it that whoever owns the tooth has governance over the local area. However, the Temple of the Tooth itself was first built in 1603, with the current temple dating back to the 18th century.</string>
+    <string name="sigiriya_head">Sigiriya</string>
+    <string name="sigiriya_details1">Sigiriya in Sri Lanka combines a natural phenomenon with history and religion, as the site of an ancient rock fortress and royal palace.</string>
+    <string name="sigiriya_details2">Comprised of a vast red rock mound rising over 660 feet, it is thought that Sigiriya (meaning “Lion Rock”) was originally inhabited during the 3rd century BC, when a Buddhist monastery was founded there.In the 5th century AD, it is thought that Sigiriya’s use changed from a sacred site to a royal one. It is said that, having assassinated his father King Dhatusena and taken the throne, King Kashyapa I of the Anuradhapura Kingdom sought an easily defensible place to build his palace, and that he chose to construct it atop Sigiriya.In the late 5th century, Kashyapa was defeated in battle and Sigiriya once again became a Buddhist monastery, eventually falling into decline.Comprised of a vast red rock mound rising over 660 feet,</string>
+    <string name="sigiriya_details3">it is thought that Sigiriya (meaning “Lion Rock”) was originally inhabited during the 3rd century BC, when a Buddhist monastery was founded there.In the 5th century AD, it is thought that Sigiriya’s use changed from a sacred site to a royal one.</string>
+    <string name="forest_head">Forests In Sri Lanka</string>
+    <string name="knuckles_head">Knuckles</string>
+    <string name="knuckles_details">The Knuckles Mountain range includes sections of Kandy and Matale with the Mahaveli Valley separating it from the Central Hills on the South and East while the Matale valley does the same on the West. It was named Knuckles because the mountain range looks like a clenched fist. Its importance lies in its clear water, cloud forests and unique flora and fauna.</string>
+    <string name="sinharaja_head">Sinharaja World Heritage</string>
+    <string name="sinharaja_details">A national park and biodiversity hotspot in Sri Lanka, the Sinharaja rainforest is of global importance and has been named a World Biosphere Reserve as well as a UNESCO World Heritage Site. Part of Sri Lanka’s lowland rainforests, this reserve is a goldmine of endemic species including reptiles, birds, mammals, insects and trees.It is difficult to part from these magnificent forests with their exceptional ensemble of flora and fauna. In order to truly embrace the natural beauty of Sri Lanka it is essential that you undertake a forest trek through these incredible rainforests.</string>
+    <string name="culture_head">Culture In Sri Lanka</string>
+    <string name="aryu_head">Indigenous medicine ( ayuruvedic )</string>
+    <string name="aryu_details">Indigenous medicine is also a huge part of the culture which even has said to be able to cure terminal diseases such as cancer. These days in Sri Lanka a lot of ayuruvedic spas and clinics are open for tourists who visit the country , which is also considered as one of the major tourist ( recreational ) attractions.</string>
+    <string name="art_head">Visual and Performance Arts</string>
+    <string name="art_details">Art, music, drama and even architectire also is a part of the cultural fusion. Art plays an integral part in the history of Sri Lanka providing a figurative gold mine to archeologists and anthropologists since art speaks a lot about the Sri Lankan way of life. From castles to frescoes art itself chronicles the history and culture leaving people filled with wonder , reverence and respect.</string>
+
+
+</resources>
